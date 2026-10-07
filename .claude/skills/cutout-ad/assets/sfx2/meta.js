@@ -1,0 +1,1 @@
+window.SFX2={"boing": 0.5, "bonk": 0.22, "clink": 0.2, "crack": 0.4, "ding": 0.7, "drip": 0.15, "icecrack": 0.6, "kaching": 1.0, "ring": 0.9, "ring_blip": 0.2, "rumble": 0.5, "sadtrombone": 2.0, "scratch": 0.5, "slap": 0.14, "slide_down": 0.5, "smash": 0.7, "smash_noise": 0.5, "stomp": 0.25, "sweep_up": 2.4, "thump": 0.3, "tick": 0.3};
